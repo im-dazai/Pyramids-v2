@@ -1,0 +1,8 @@
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\bin\Debug\Pyramids v2.exe.config
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\bin\Debug\Pyramids v2.exe
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\bin\Debug\Pyramids v2.pdb
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\obj\Debug\Pyramids v2.csproj.AssemblyReference.cache
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\obj\Debug\Pyramids v2.csproj.SuggestedBindingRedirects.cache
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\obj\Debug\Pyramids v2.csproj.CoreCompileInputs.cache
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\obj\Debug\Pyramids v2.exe
+D:\Adobe\Comp 1\VS Saves\Pyramids v2\obj\Debug\Pyramids v2.pdb
